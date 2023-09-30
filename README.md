@@ -1,2 +1,2 @@
 # ToDo_List_OOP
-A simple object oriented to do list
+This is just a basic object-oriented To-Do List python file.
